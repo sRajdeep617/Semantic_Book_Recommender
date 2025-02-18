@@ -1,4 +1,4 @@
-# Semantic_Book_Recommender
+# Semantic Book Recommender
 
 ## Overview
 Semantic Book Recommender is a project that leverages semantic analysis to recommend books based on their content. This project includes a Gradio dashboard for easy interaction and visualization of the recommendations.
